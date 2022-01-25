@@ -58,7 +58,7 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 
-## Postman json
+## Import this json to postman to test
 
 {
 	"info": {
